@@ -1,4 +1,4 @@
-package EjerciciosPracticas
+package EjerciciosPracticas.Fibonacci
 
 
 fun main() {
